@@ -14,6 +14,6 @@ I have **not** implemented all of the algorithms, and have implemented and alter
 I do **not** take responsibility for the algorithms correctness.
 
 ## References
-- [1] J. Klawitter, `Algorithms for crossing minimisation in book drawings`, Master Thesis, 2016.
-- [2] J. Klawitter, T. Mchedlidze, M. Nöllenburg, `Experimental Evaluation of Book Drawing Algorithms`, Proceedings GD17, 2017.
-- [3] J. Cibulka, [`book-embedder`, repository](https://github.com/josefcibulka/book-embedder)
+- [1] J. Klawitter, *Algorithms for crossing minimisation in book drawings*, Master Thesis, 2016.
+- [2] J. Klawitter, T. Mchedlidze, M. Nöllenburg, *Experimental Evaluation of Book Drawing Algorithms*, Proceedings GD17, 2017.
+- [3] J. Cibulka, [*book-embedder*, repository](https://github.com/josefcibulka/book-embedder)
